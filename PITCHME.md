@@ -12,12 +12,12 @@ marp: false
 
 ---
 ## Ça c'est moi : 
-![bg center:80% 20%](/images/Banni%C3%A8res_Photo_S%C3%A9bastien.png)
+![bg center:80% 20%](./Banni%C3%A8res_Photo_S%C3%A9bastien.png)
 
 
 ---
 ## Ça c'est aussi moi : 
-![bg center:80% 20%](/images/pxl_20230219_122036541_2_720.jpg)
+![bg center:80% 20%](./pxl_20230219_122036541_2_720.jpg)
 
 ---
 ![bg right:40% 60%](https://media.tenor.com/EnRojaH2AH4AAAAM/confused-meme.gif)
