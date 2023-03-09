@@ -11,15 +11,6 @@ marp: false
 # Chargé de gamification et analyses UX
 
 ---
-## Ça c'est moi : 
-![bg center:80% 20%](https://ca.slack-edge.com/T01D56SANQ7-U04J6JWTDS9-f1a50048b525-512)
-
-
----
-## Ça c'est aussi moi : 
-![bg center:80% 20%](https://mohasteam.slack.com/files/U04J6JWTDS9/F04R34QJ43A/pxl_20230219_122036541_2.jpg)
-
----
 ![bg right:40% 60%](https://media.tenor.com/EnRojaH2AH4AAAAM/confused-meme.gif)
 
 # Gamifi-quoi ??
