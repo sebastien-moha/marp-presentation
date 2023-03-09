@@ -1,76 +1,60 @@
 ---
-marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-transition: fade
-paginate: true
-_paginate: false
+_class: lead
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+marp: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
+![bg left:40% 60%](https://uploads-ssl.webflow.com/6128ea0841c95d012cfdfee3/61f0037bfecdf4eb05d898a5_logo%20bonne%20version.png)
 
-# <!--fit--> Marp CLI example
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+# Chargé de gamification et analyses UX
 
 ---
+## Ça c'est moi : 
+![bg center:80% 20%](/images/Banni%C3%A8res_Photo_S%C3%A9bastien.png)
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
 
 ---
+## Ça c'est aussi moi : 
+![bg center:80% 20%](/images/pxl_20230219_122036541_2_720.jpg)
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
+---
+![bg right:40% 60%](https://media.tenor.com/EnRojaH2AH4AAAAM/confused-meme.gif)
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+# Gamifi-quoi ??
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+# La gamification :
 
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+> **Gamification**: Faire d'un truc chiant, un truc amusant 
+> 	*Le p'tit S. 2023*
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+## Mon rôle :
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+Créer de l'engagement chez les utilisateurs de Moha ☀️ à travers diverses mécaniques de jeux
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
+# Data Analyst
 
-## **[Vercel](https://vercel.com/)**
+> Chaque donnée raconte une histoire 
+> 	*S. 2023*
 
-#### Ready to write & host your deck!
+--- 
 
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+## Mon rôle de data :
 
----
+- Générer de chouettes rapports 
+- Valoriser les données de recherche
+- Vulgariser 
 
-### <!--fit--> :ok_hand:
+--- 
 
----
+# Automatisation / Data engineer
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+> Si tu le fait plus d'une fois, automatise le. 
+> 	*S. 2023*
